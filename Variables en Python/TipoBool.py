@@ -13,3 +13,4 @@ if miVariable:
     print("El resultado fue verdadero")
 else:
     print("El resultado fue falso")
+
